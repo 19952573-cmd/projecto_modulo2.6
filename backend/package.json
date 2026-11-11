@@ -1,0 +1,16 @@
+{
+  "name": "gestor-de-tareas",
+  "version": "1.0.0",
+  "description": "Sistema gestor de tareas",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
